@@ -1,3 +1,5 @@
+**ATTENTION: The new version can be found [here](https://github.com/TheNexusAvenger/Monstercat-Audio-Spectrum-Visualizer). This will not be getting updates as the new one is a full rewrite.**
+
 NOTE: This was modified for personal use, however can be used for getting data of audio files.
 
 Viewing:
