@@ -3,8 +3,8 @@
 NOTE: This was modified for personal use, however can be used for getting data of audio files.
 
 Viewing:
-<br>(Development) https://rawgit.com/TheNexusAvenger/vis.js/gh-pages/index.html
-<br>(Production) https://cdn.rawgit.com/TheNexusAvenger/vis.js/gh-pages/index.html
+<br>(Development) https://rawgit.com/Shardrox/vis.js/gh-pages/index.html
+<br>(Production) https://cdn.rawgit.com/Shardrox/vis.js/gh-pages/index.html
 
 # vis.js (TheNexusAvenger's Modifications)
 
